@@ -183,7 +183,7 @@ SphereCollider:
     m_Bits: 0
   m_LayerOverridePriority: 0
   m_IsTrigger: 0
-  m_ProvidesContacts: 0
+  m_ProvidesContacts: 1
   m_Enabled: 1
   serializedVersion: 3
   m_Radius: 0.5
@@ -218,7 +218,7 @@ Cloth:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 73145720}
-  m_Enabled: 1
+  m_Enabled: 0
   m_StretchingStiffness: 1
   m_BendingStiffness: 0
   m_UseTethers: 1
