@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0205ad0993780b64bab3d4dceac2f090
+timeCreated: 1548245962
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135722
+  packageName: Modular Animal Knight Polyart
+  packageVersion: 1.4
+  assetPath: Assets/ModularAnimalKnightsPolyart/TPController/prefab/Controller.prefab
+  uploadId: 449048

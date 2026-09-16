@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 066b4e121958b224ca979e9b2c0f617f
+timeCreated: 1579170749
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135722
+  packageName: Modular Animal Knight Polyart
+  packageVersion: 1.4
+  assetPath: Assets/ModularAnimalKnightsPolyart/Material/Skybox_Mat.mat
+  uploadId: 449048

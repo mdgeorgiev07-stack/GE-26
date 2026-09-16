@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 356ef7d154ec2204da583918f14ed575
+timeCreated: 1546306973
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135722
+  packageName: Modular Animal Knight Polyart
+  packageVersion: 1.4
+  assetPath: Assets/ModularAnimalKnightsPolyart/TPController/Scripts/ControlManager.cs
+  uploadId: 449048

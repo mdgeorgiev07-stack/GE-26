@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cf003393231a1c849bc0a24bb323167c
+timeCreated: 1545225172
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135722
+  packageName: Modular Animal Knight Polyart
+  packageVersion: 1.4
+  assetPath: Assets/ModularAnimalKnightsPolyart/Prefab/MaskTint/sd01MaskTint.prefab
+  uploadId: 449048

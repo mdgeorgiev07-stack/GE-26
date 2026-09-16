@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7afe9c7d04508834f9dc3e71830eff3a
+timeCreated: 1546305508
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135722
+  packageName: Modular Animal Knight Polyart
+  packageVersion: 1.4
+  assetPath: Assets/ModularAnimalKnightsPolyart/TPController/material/Ground.mat
+  uploadId: 449048

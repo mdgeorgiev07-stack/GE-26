@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3802903c581a7af46af72576cc2ce919
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135722
+  packageName: Modular Animal Knight Polyart
+  packageVersion: 1.4
+  assetPath: Assets/ModularAnimalKnightsPolyart/PhysicsManager.preset
+  uploadId: 449048

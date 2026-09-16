@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b0cf300f13e2f7240815f6cb160083bc
+timeCreated: 1544005613
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135722
+  packageName: Modular Animal Knight Polyart
+  packageVersion: 1.4
+  assetPath: Assets/ModularAnimalKnightsPolyart/Scene/AllCharactersWithNoWeapon.unity
+  uploadId: 449048

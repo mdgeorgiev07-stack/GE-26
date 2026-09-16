@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6799c4697456ac64183a82e1b7c30913
+timeCreated: 1543209043
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135722
+  packageName: Modular Animal Knight Polyart
+  packageVersion: 1.4
+  assetPath: Assets/ModularAnimalKnightsPolyart/Animator/AnimalKnightNoWeapon.controller
+  uploadId: 449048

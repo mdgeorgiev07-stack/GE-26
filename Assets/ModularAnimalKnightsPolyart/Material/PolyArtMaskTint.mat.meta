@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ec7b8ce3b9e1f6147afc32f0dc6b7aea
+timeCreated: 1544406118
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135722
+  packageName: Modular Animal Knight Polyart
+  packageVersion: 1.4
+  assetPath: Assets/ModularAnimalKnightsPolyart/Material/PolyArtMaskTint.mat
+  uploadId: 449048
